@@ -1,0 +1,35 @@
+{
+    "Entrées": [
+        {
+            "nom": "Escargots à la crème d'ail",
+            "desc": "",
+            "portion": 1,
+            "prix" : 32
+        },
+        {
+            "nom": "Foie gras de canard poêlé aux coings",
+            "desc": "gâteau et infusion de coing à la verveine",
+            "portion": 2,
+            "prix" : 32
+        },
+        {},
+        {}
+    ],
+
+    "Poissons": [
+        {
+            "nom": "",
+            "desc": "",
+            "portion": 1,
+            "prix" : 1
+        },
+        {
+            "nom": "",
+            "desc": "",
+            "portion": 1,
+            "prix" : 1
+        },
+        {},
+        {}
+    ]
+}

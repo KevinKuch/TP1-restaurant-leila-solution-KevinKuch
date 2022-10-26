@@ -1,0 +1,94 @@
+{
+    "Starters": [
+        {
+            "nom": "Snails with garlic cream",
+            "desc": "",
+            "portion": 1,
+            "prix": 31
+        },
+        {
+            "nom": "Pan-fried duck foie gras with quince",
+            "desc": "quince cake and infusion with verbena",
+            "portion": 2,
+            "prix": 34
+        },
+        {
+            "nom": "Autumn Mushroom Garden",
+            "desc": "cream of porcini mushrooms, black tea emulsion",
+            "portion": 1,
+            "prix": 33
+        }
+    ],
+    "Pisces": [
+        {
+            "nom": "Zander with crispy skin",
+            "desc": "shallot fondue, red wine sauce",
+            "portion": 1,
+            "prix": 42
+        },
+        {
+            "nom": "Roasted John Dory with Taggiasche Olives",
+            "desc": "artichoke mousseline, fish stock with kalamansi lemon",
+            "portion": 1,
+            "prix": 49
+        },
+        {
+            "nom": "Steamed sea bass and samphire",
+            "desc": "variation of rice and shellfish, turmeric juice",
+            "portion": 2,
+            "prix": 58
+        }
+        
+    ],
+    "Meats": [
+        {
+            "nom": "Piglet chop and crispy Cantal pork belly",
+            "desc": "seasonal vegetables and creamy celeriac",
+            "portion": 1,
+            "prix": 42
+        },
+        {
+            "nom": "Duck fillet roasted on the skin, port juice infused with hibiscus",
+            "desc": "Fig tartlet and candied leg, small fig chartreuse",
+            "portion": 1,
+            "prix": 44
+        },
+        {
+            "nom": "Golden veal sweetbreads with porcini mushrooms",
+            "desc": "porcini mushroom mousseline, veal jus with Morvan cazette",
+            "portion": 1,
+            "prix": 63
+        }
+        
+    ],
+    "Cheeses": [
+        {
+            "nom": "Trolley of refined cheeses from our regions",
+            "desc": "",
+            "portion": 1,
+            "prix": 12
+        }
+    ],
+    "Desserts": [
+        {
+            "nom": "Poached Louise Bonne pear with sweet lemon",
+            "desc": "iced parfait with Nepeta, small spelled crumble",
+            "portion": 1,
+            "prix": 13
+        },
+        {
+            "nom": "Burgundy blackcurrant flower",
+            "desc": "chiboust with vanilla and grand cru chocolate from Madagascar",
+            "portion": 1,
+            "prix": 13
+        },
+        {
+            "nom": "Apple tart from Bernard Loiseau",
+            "desc": "green apple sorbet",
+            "portion": 1,
+            "prix": 12
+        }
+        
+    ]
+    
+}

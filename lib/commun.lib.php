@@ -68,7 +68,27 @@
 
 /********* MENU ET CARTE DES VINS *********************************************/
 
-
-
+/**
+ * Affiche les noms des menus et les vins 
+ * 
+ * @param string $sectionPage : Identification de la page des noms pour Menu et Vin
+ * 
+ * @param string $lang : Identifier la langue pour la page de Menu et Vin du site
+ * 
+ * @return array Tableau associatif contenant les infos et les noms du Menu et Vin
+ */
+function afficherNomInfoMenuVin($sectionPage, $lang)
+{
+    if(file_exists("data/$sectionPage-$lang.json")) {
+        $listMenuVin = file_get_contents("data/$sectionPage-$lang.json");
+    }
+    else {
+        $listMenuVin = file_get_contents("data/$sectionPage-fr.json");
+    }
+    $listMenuVinTab = json_decode($listMenuVin, true);
+    $listMenusVins = $listMenuVinTab;
+    return $listMenusVins;
+    
+}
 
 ?>

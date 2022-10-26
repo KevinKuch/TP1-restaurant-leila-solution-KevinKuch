@@ -47,7 +47,7 @@ $accPara2 = "Un immeuble parmi les plus anciens de la ville dans... la rue Neuve
 $accImgAlt = "En cuisine";
 
 /************* MENU ***********************************************************/
-
+$mnuPortionEtiquette = "portion : ";
 
 /************* CARTE DES VINS *************************************************/
 $vinRechercheEtiquette = "Recherche : ";
